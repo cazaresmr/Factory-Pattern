@@ -1,0 +1,15 @@
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.deps.json
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.runtimeconfig.json
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.dll
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.pdb
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.AssemblyReference.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfoInputs.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfo.cs
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.dll
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/refint/FactoryPattern.dll
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.pdb
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.genruntimeconfig.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/ref/FactoryPattern.dll
